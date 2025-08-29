@@ -4,7 +4,7 @@ This project is a deep learning-based web application for classifying the toxici
 
 **Live App:**  
 
-
+https://sid-comment-toxicity.streamlit.app/
 ---
 
 ## Features
