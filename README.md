@@ -96,8 +96,8 @@ To deploy on Streamlit Cloud:
 
 ## Credits
 
-Developed by Siddhartha Ram Konasani. 
-Mail: **siddharthakonasani.77@gmail.com**
-Model and workflow inspired by public toxicity classification challenges.
+- Developed by Siddhartha Ram Konasani. 
+- Mail: **siddharthakonasani.77@gmail.com**
+- Model and workflow inspired by public toxicity classification challenges.
 
 
